@@ -5,6 +5,10 @@
 
 ## 我的开源项目：
 
+### 课程设计
+* 网上书店后台管理系统——书籍管理模块 https://github.com/shaozk/bkstore_system
+* 
+
 ### 学习规划 🌱
 * Python爬虫学习
 
