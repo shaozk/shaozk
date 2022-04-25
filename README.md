@@ -11,19 +11,11 @@
 
 ### 学习规划 🌱
 * Python爬虫学习
-
-### 数据库方向 🔭
-* 暂无
-
-### 小游戏 😄
-* 暂无
+* 自然语言处理
 
 ### 开发的工具 📫
-* 暂无
+* vim
 
-## 我的公众号⚡：
-
-* 暂无
 
 <!--
 **shaozk/shaozk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
