@@ -10,3 +10,4 @@
 - 自己常用的一些 [skills](https://github.com/shaozk/skills)
 - 钓龙虾小游戏（vibe slop）[crayfishing](https://github.com/shaozk/crayfishing)
 - Herdr 插件：影分身面板 [herdr-shadow-pane](https://github.com/shaozk/herdr-shadow-pane)
+- 代码片段 [pieces](https://github.com/shaozk/pieces)
